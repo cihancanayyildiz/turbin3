@@ -1,7 +1,6 @@
 #  WBA Solana Pre-requisites
 Final project tx: 
 ```bash
-# Tx link
 https://explorer.solana.com/tx/549DLLAJg7Q5Px9UTRU7LXus4MfSsZQMoTNFJVmddsAFMyRLNPXa7V4kxWHsMPYHSAgVuLpxB4tsznDwjx5tr7zv?cluster=devnet
 ```
 
